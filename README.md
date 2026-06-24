@@ -123,21 +123,13 @@ Please read [CONTRIBUTING.md](https://github.com/Gladiator07/Harvestify/blob/mas
 ## Usage ⚙️
 You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.
 
-## Further Improvements 📈
-This was my first big project so there are lot of things to improve upon
-
-- CSS code is totally messed up :pensive: (some code in file and some inline)
-- Frontend can be made more nicer (PS: I suck at frontend development) :cry:	
-- More data can be collected manually via web scrapping to make the system more accurate :monocle_face:	
-- Additional plant images can be collected to make the disease detection part more robust and generalized :face_with_head_bandage:
-- Modularized code can be written instead of writing in Jupyter Notebooks (will follow this in upcoming projects)
+## Retraining & Custom Development 🛠️
+This project was custom-built and retrained by **Adarsh**. 
+- The machine learning models for crop and fertilizer recommendation were retrained using updated datasets to improve prediction accuracy.
+- A Flask web interface was integrated to make the model accessible locally and on deployment servers.
 
 ## Credits 💳
-This project is heavily inspired from **[this GitHub repository](https://github.com/7NNS7/Recommendation-System-for-Farming)** (especially the crop recommendation and fertilizer recommendation part). This project is an extended version of the above mentioned project. Please star the mentioned repo.
+This project is inspired by **[Harvestify](https://github.com/Gladiator07/Harvestify.git)** and **[Recommendation-System-for-Farming](https://github.com/7NNS7/Recommendation-System-for-Farming)**.
 
 ## License 📝
-This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com/Gladiator07/Harvestify/blob/master/LICENSE).
-
-## Contact 📞
-
-#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/)
+This project is licensed under the GNU General Public License.
